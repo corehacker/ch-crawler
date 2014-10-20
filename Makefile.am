@@ -1,0 +1,2 @@
+SUBDIRS = ch-crawler
+ACLOCAL_AMFLAGS = -I m4
